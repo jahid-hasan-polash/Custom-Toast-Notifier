@@ -17,7 +17,7 @@ A simple toast notifier to show user any message with custom background, image a
 - [x] Swift 4+.
 
 <div align = "center">
-<img src="Screenshot.jpeg"/>
+<img src="Screenshot.jpg"/>
 </div>
 
 ## Usage
